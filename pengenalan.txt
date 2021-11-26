@@ -3,7 +3,9 @@ penegnalan.txt
 -Java script
 -php
 -html
+  *en naz ajar
 -css
 -bug fundamental
 -software testing
 -development
+  *puan ainon ajar
