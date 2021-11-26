@@ -1,0 +1,6 @@
+penegnalan.txt
+
+-Java script
+-php
+-html
+-css
