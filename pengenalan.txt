@@ -4,3 +4,5 @@ penegnalan.txt
 -php
 -html
 -css
+-bug fundamental
+-software testing
