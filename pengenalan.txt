@@ -9,3 +9,4 @@ penegnalan.txt
 -software testing
 -development
 -C++
+-lalala
