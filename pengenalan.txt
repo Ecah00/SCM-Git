@@ -3,7 +3,10 @@ penegnalan.txt
 -Java script
 -php
 -html
+-SAAD
 -css
 -bug fundamental
 -software testing
 -development
+-C++
+-lalala
