@@ -6,3 +6,4 @@ penegnalan.txt
 -css
 -bug fundamental
 -software testing
+-development
