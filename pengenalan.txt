@@ -1,0 +1,8 @@
+penegnalan.txt
+
+-Java script
+-php
+-html
+-css
+-bug fundamental
+-software testing
